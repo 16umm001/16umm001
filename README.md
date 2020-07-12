@@ -1,4 +1,12 @@
 ### Hi there 👋
+### I'm Adarsh Pathak.
+
+- 🔭 I’m currently working on .... Natural Language Processing
+- 🌱 I’m currently learning ... Reinforcement Learning
+- 👯 I’m looking to collaborate on ... NLP,CV,RL
+- 🤔 I’m looking for help with ... Nodejs
+- 💬 Ask me about ... Deep Learning
+- 📫 How to reach me: ... https://16umm001.github.io
 
 <!--
 **16umm001/16umm001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

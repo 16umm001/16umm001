@@ -1,24 +1,8 @@
 ### Hi there 👋
 ### I'm Adarsh Pathak.
 
-- 🔭 I’m currently working on .... Natural Language Processing
-- 🌱 I’m currently learning ... Reinforcement Learning
-- 👯 I’m looking to collaborate on ... NLP,CV,RL
-- 🤔 I’m looking for help with ... Nodejs
-- 💬 Ask me about ... Deep Learning
-- 📫 How to reach me: ... https://16umm001.github.io
-
-<!--
-**16umm001/16umm001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on .... Springboot 
+- 🌱 I’m currently learning ... Kubernetes 
+- 👯 I’m looking to collaborate on ... OpenSource, Backend Development, System Design
+- 💬 Ask me about ... Backend Engineering 
+- 📫 How to reach me: ... https://www.linkedin.com/in/akp98/
